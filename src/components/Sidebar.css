@@ -1,0 +1,18 @@
+.sidebar .calendar {
+    margin-bottom: 20px;
+  }
+  
+  .sidebar .calendar-grid {
+    height: 200px;
+    background-color: #ddd;
+  }
+  
+  .sidebar .camera-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar .camera-list li {
+    padding: 5px 0;
+  }
+  

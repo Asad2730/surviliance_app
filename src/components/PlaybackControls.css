@@ -1,0 +1,8 @@
+.playback-controls .controls-placeholder {
+    height: 100%;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

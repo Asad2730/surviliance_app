@@ -1,0 +1,25 @@
+.camera-feed {
+    border: 1px solid #ccc;
+    position: relative;
+  }
+  
+  .camera-id {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 2px 5px;
+    font-size: 12px;
+  }
+  
+  .video-placeholder {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+    color: white;
+    font-size: 18px;
+  }
+  
